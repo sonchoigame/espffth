@@ -1,0 +1,96 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "nsmod.esp.vip", 
+"name": "♰ NSMOD ESP ANTENA ♰", 
+"description": " : ̗̀➛ KÊNH TELE: t.me/sonchoigame123 \n  ̗̀➛ FFTH + FFM",
+"icon": "AVT/avt.jpg", 
+"packages": [ 
+{ 
+"identifier": "FF-ESP", 
+"name": " FFTH ESP + AIM  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "ESP + AIMVIP ★", 
+"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
+"category": "ESP FFTH", 
+"tags": [ 
+"ESP FFTH"
+], 
+"icon": "AVT/killua.jpg", 
+"screenshots": [ 
+"IMG/Screenshot 2026-09-12 202430.png"
+
+], 
+"download": "PATCH/Esp FFTH.3105",
+"sha256": "47B6FFFB0634CD2BDE941CAB6BEC5B088760CB9D0F2D8D0125B728A0E6AD1790", 
+"password": "@imnot_hd",
+"size": 3492590, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+{ 
+"identifier": "FFM-ESP", 
+"name": " FFM ESP + AIM  ", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "ESP + AIMVIP ★", 
+"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
+"category": "ESP FFM", 
+"tags": [ 
+"ESP FFM"
+], 
+"icon": "AVT/killua.jpg", 
+"screenshots": [ 
+"IMG/Screenshot 2026-09-12 202430.png"
+
+], 
+"download": "PATCH/Esp FFM.3105",
+"sha256": "2FDDB61E9D7F779B085883D36792E196373E7E705772DF7C3082D2CDDA771A01", 
+"password": "@imnot_hd",
+"size": 3555021, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+]
+}
