@@ -93,50 +93,6 @@
 "isPrivate": false 
 },
 
-{ 
-"identifier": "FF-AIMBUNG", 
-"name": " FFTH AIM BỤNG ", 
-"author": "ngthanh", 
-"version": "1.0.0", 
-"summary": "AIM BỤNG ★", 
-"description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-"category": "FULL AIM", 
-"tags": [ 
-"FULL AIM"
-], 
-"icon": "AVT/killua.jpg", 
-"screenshots": [ 
-"AVT/avt.jpg"
-
-], 
-"download": "AIM/AIM BỤNG.3105",
-"sha256": "FCCB53EEF85F2FC27FAAF3FCFD72480123F248FA2AE9DC42DCBEF11A79E3C63A", 
-"password": "@ngthanhnew",
-"size": 64027, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-
 
 
 { 
